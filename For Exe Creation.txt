@@ -1,0 +1,3 @@
+python setup.py bdist_msi // This Command is use for create the setup.
+
+python vpad.py  //This command is user for run the command.
